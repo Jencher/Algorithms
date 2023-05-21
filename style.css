@@ -1,0 +1,17 @@
+body{
+    font-size: 14px;
+    color: #565357;
+}
+
+.header{
+    color: #6a5073;
+    background-color: #cfd2d4;
+}
+
+h3.grey{
+    background-color: lightgrey;
+}
+
+h3.darkgrey{
+    background-color: lightgrey;
+}
