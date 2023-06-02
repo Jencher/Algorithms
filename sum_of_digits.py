@@ -6,4 +6,7 @@ def sum_of_digits(n):
         result = result + i
     return result
 
+# or result = (n * (n+1))/2
+
 print(sum_of_digits(5))
+
